@@ -4,11 +4,12 @@
 
 ```
 npm install
-copy and rename .env.example to .env
+create .env with token
 ```
 
 ## Running application
 
 ```
+npm run build
 npm run start
 ```
