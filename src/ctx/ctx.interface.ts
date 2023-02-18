@@ -1,7 +1,7 @@
 import { Context } from 'telegraf';
 
 export interface SessionData {
-    like: boolean;
+    question: boolean;
 }
 
 export interface BotCtx extends Context {
